@@ -13,7 +13,6 @@ A continuación se lista el contenido de este archivo, seleccione una opción de
 - [Alcance del Proyecto](#alcance-del-proyecto)
 - [Dashboard](#dashboard)
 - [Metodología](#metodología)
-- [Cloud - Guía General](#cloud---guía-general)
 - [Deploy en Streamlit](#deploy-en-streamlit)
 - [Análisis Exploratorio de Datos (EDA)](#análisis-exploratorio-de-datos-eda)
 - [Diagrama de Entidad-Relación (ERD)](#diagrama-de-entidad-relación-erd)
