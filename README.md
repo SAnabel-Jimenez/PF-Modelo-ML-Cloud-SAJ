@@ -11,7 +11,6 @@ A continuación se lista el contenido de este archivo, seleccione una opción de
 
 - [Objetivos del Proyecto](#objetivos-del-proyecto)
 - [Alcance del Proyecto](#alcance-del-proyecto)
-- [Stack Tecnológico](#Stack-tecnologico)
 - [Dashboard](#dashboard)
 - [Metodología](#metodología)
 - [Cloud - Guía General](#cloud---guía-general)
