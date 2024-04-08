@@ -19,7 +19,6 @@ A continuación se lista el contenido de este archivo, seleccione una opción de
 - [Análisis Exploratorio de Datos (EDA)](#análisis-exploratorio-de-datos-eda)
 - [Diagrama de Entidad-Relación (ERD)](#diagrama-de-entidad-relación-erd)
 - [Diccionario](#diccionario-de-datos)
-- [Modelo de Recomendación de Machine Learning](#modelo-de-recomendación-de-machine-learning)
 - [Colaboradores](#Equipo-Data-Studio18)
 
 
