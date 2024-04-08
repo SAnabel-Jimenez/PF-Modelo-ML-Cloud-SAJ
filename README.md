@@ -17,7 +17,7 @@ A continuación se lista el contenido de este archivo, seleccione una opción de
 - [Análisis Exploratorio de Datos (EDA)](#análisis-exploratorio-de-datos-eda)
 - [Diagrama de Entidad-Relación (ERD)](#diagrama-de-entidad-relación-erd)
 - [Diccionario](#diccionario-de-datos)
-- ![Diccionario](/Data Engineering/imagen1.png)
+- ![Diccionario](/Data Engineering/Descripcion funciones.pdf)
 - [Colaboradores](#Equipo-Data-Studio18)
 
 
